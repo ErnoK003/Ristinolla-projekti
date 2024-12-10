@@ -4,7 +4,7 @@ def tulosta_peli(yks, kaks, kolme, nelja, viis, kuus, seittema, kaheksa, yheksa)
     print(seittema, kaheksa, yheksa)
 
 def paikka(valinta, merkki, yks, kaks, kolme, nelja, viis, kuus, seittema, kaheksa, yheksa):
-                            #asettaa halutulle paikalle pelaajan merkin, jos paikka on vapaa ja kysyy, kunnes onnistuu (True)
+                            #asettaa halutulle paikalle pelaajan merkin, jos paikka on vapaa ja kysyy niin kauan, kunnes onnistuu (True)
     if valinta == 1 and yks == "1":
         yks = merkki
     elif valinta == 2 and kaks == "2":
