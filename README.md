@@ -1,1 +1,1 @@
-Ristinollapeli
+Ohjelma on ristinolla-peli, joka on toteutettu Python-kielellä. Peli on suoritettava Python-kääntäjällä.
